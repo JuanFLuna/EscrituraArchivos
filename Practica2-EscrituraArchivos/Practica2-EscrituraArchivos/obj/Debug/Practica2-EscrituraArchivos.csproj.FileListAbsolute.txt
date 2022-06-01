@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Escritorio\poo s\Practica2-EscrituraArchivos\Practica2-EscrituraArchivos\bin\Debug\Practica2-EscrituraArchivos.exe.config
+C:\Users\DELL\OneDrive\Escritorio\poo s\Practica2-EscrituraArchivos\Practica2-EscrituraArchivos\bin\Debug\Practica2-EscrituraArchivos.exe
+C:\Users\DELL\OneDrive\Escritorio\poo s\Practica2-EscrituraArchivos\Practica2-EscrituraArchivos\bin\Debug\Practica2-EscrituraArchivos.pdb
+C:\Users\DELL\OneDrive\Escritorio\poo s\Practica2-EscrituraArchivos\Practica2-EscrituraArchivos\obj\Debug\Practica2-EscrituraArchivos.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Escritorio\poo s\Practica2-EscrituraArchivos\Practica2-EscrituraArchivos\obj\Debug\Practica2-EscrituraArchivos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Escritorio\poo s\Practica2-EscrituraArchivos\Practica2-EscrituraArchivos\obj\Debug\Practica2-EscrituraArchivos.exe
+C:\Users\DELL\OneDrive\Escritorio\poo s\Practica2-EscrituraArchivos\Practica2-EscrituraArchivos\obj\Debug\Practica2-EscrituraArchivos.pdb
